@@ -19,10 +19,5 @@ module.exports = {
     'no-debugger': 'off',
     'space-before-function-paren': 0,
     'vue/no-unused-vars': 'off'
-  },
-
-  extends: [
-    'plugin:vue/essential',
-    '@vue/standard'
-  ]
+  }
 }
