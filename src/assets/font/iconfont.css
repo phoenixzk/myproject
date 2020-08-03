@@ -1,0 +1,25 @@
+@font-face {font-family: "iconfont";
+  src: url('iconfont.eot?t=1595502685567'); /* IE9 */
+  src: url('iconfont.eot?t=1595502685567#iefix') format('embedded-opentype'), /* IE6-IE8 */
+  url('data:application/x-font-woff2;charset=utf-8;base64,d09GMgABAAAAAAPIAAsAAAAACEwAAAN6AAEAAAAAAAAAAAAAAAAAAAAAAAAAAAAAHEIGVgCDBgqEMIQCATYCJAMMCwgABCAFhG0HPBtOBxHVm5/Ifh7Gtoj8Tj+rMyPfRLto7Hs+mNv70oQ2lC/itp3EgJnqSUyA+VHtTAAUQMDinHMHoyLUSN6iR19IgZfl9D/HUi8TLL9fuGSURwIeHx4dUObWujeyDWSCPhXwbAYeE/A6EAAy3IQgOXklNeBg0HYRAGRksL8TPGYDK2km4CAQcy4ykJVQgAuLhAcAVri/T74iKgcEKCi0gxV9uT3I+ND8YSdVG9UtNgLy/jwAhGsABRACYABpy/U1gPq5EBTyR8fKq0UwEAh9JY1GV/bViPo/PEAAAYgIrdEEABDAaIWdkpuyUL8Tir2Wn5xBbFG4DeC3aLehiVIofbiphZXFJ036z+kJ2WPIv6nzhPpFgk5Xa7sOUK+VzRavJ/Q5+w32BkMNzIlev/hF89knLtj2dMlzd7L92ehiPR3SGKoNy2p12ponL6YtflFhm9U6aAwZJ+bUPdN3qJass8XatbLcjUezQRWXddsJs9qRDRs6yjrWrahRrTukPih8zWHNkZMTPn7ZAQnu1dW/f9dUmycE+GbZlFtN6/YqSPBm7dJCqcN8pALm9vGeBVO7Jt+K9Yj1qVrZdtZY8nHfzk1ygrypfpG9cBFIYN2m9ClT0jcdAf8F7fQazfTp2uoD9zemK7qt8ubE1HjHatbQwr4+bdwqaGO9Bsc8SZ2T9wR+MYwflsKkzcowfoiH88On40wexonKTZTNZySmGFVSuLS5aBZvCM9QVpaxLuVmKCDFkkuXhp5YOluaDZnZfnRA20ozhKuAUUeP0IA3/zdYuTVfbjdP+c9VDADwJn1Vqxsx6hjq1QMcAlBb/p7lNYfYV6nZKVNlpuxfpFgO5V20Qv7q8XZbAcDK+/YBWwg9BFyUAwRIcAUKDh8kw4aAAirEgAiOdJARLP+6CtYmg4IwJYAg8wgILJwAAWa4DBQWHiIZ9h0oYOc7iLBIQUYdsX5QBb+m3x8JBaMG+QevajGGk/de8w3tOwmKKl3WC2n1SZj6MVm8YkHq48j6sTOzAUM1w4XehilVaFQDKu4dczsMg8n7pl7V3O2RTSgYNcg/eFWLsSfzPvXzN7TvJKik7Uf0hbT6+WHqxxrIq67UajuX5evHzsyG3WaoZrjAg0nPVWj56wIq7l2LTDsMzDhTV9ePb8jXdwpAhvYoJQKhhIGPeRWLyLgJXpRmWLsOAAA=') format('woff2'),
+  url('iconfont.woff?t=1595502685567') format('woff'),
+  url('iconfont.ttf?t=1595502685567') format('truetype'), /* chrome, firefox, opera, Safari, Android, iOS 4.2+ */
+  url('iconfont.svg?t=1595502685567#iconfont') format('svg'); /* iOS 4.1- */
+}
+
+.iconfont {
+  font-family: "iconfont" !important;
+  font-size: 16px;
+  font-style: normal;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+.icon-nickname:before {
+  content: "\e6a0";
+}
+
+.icon-jianpan:before {
+  content: "\e65b";
+}
+
